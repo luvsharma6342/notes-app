@@ -84,6 +84,6 @@ http://localhost:3000
 ```
 
 
-<img width="1206" height="674" alt="image" src="https://github.com/user-attachments/assets/d3e93e92-1216-4bb6-a1e1-993e8d90bb51" />
-<img width="1206" height="674" alt="image" src="https://github.com/user-attachments/assets/9f1beb4d-6438-4a3d-a15c-f56782d9d269" />
+<img width="804" height="449" alt="image" src="https://github.com/user-attachments/assets/d3e93e92-1216-4bb6-a1e1-993e8d90bb51" />
+<img width="804" height="449" alt="image" src="https://github.com/user-attachments/assets/9f1beb4d-6438-4a3d-a15c-f56782d9d269" />
 
