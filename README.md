@@ -7,7 +7,7 @@ Users can create, edit, delete, search, and manage notes with a clean modern UI.
 
 ## 🚀 Live Demo
 
-`https://your-app-link.vercel.app`
+`https://notes-app-sage-pi.vercel.app/`
 
 ---
 
@@ -52,3 +52,36 @@ notes-app/
 │── .env.local
 │── package.json
 │── README.md
+```
+## ⚙️ Environment Variables
+
+Create a .env.local file in the root directory:
+```bash
+MONGODB_URI=your_mongodb_connection_string
+```
+
+## ▶️ Installation & Setup
+
+Clone the repository:
+```bash
+git clone https://github.com/luvsharma6342/notes-app.git
+```
+Go inside project folder:
+```bash
+cd notes-app
+```
+Install dependencies:
+```bash
+npm install
+```
+Run development server:
+```bash
+npm run dev
+```
+Open:
+```bash
+http://localhost:3000
+```
+
+
+<img width="1608" height="898" alt="image" src="https://github.com/user-attachments/assets/d3e93e92-1216-4bb6-a1e1-993e8d90bb51" />
