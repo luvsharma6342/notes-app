@@ -7,7 +7,7 @@ Users can create, edit, delete, search, and manage notes with a clean modern UI.
 
 ## 🚀 Live Demo
 
-`https://notes-app-sage-pi.vercel.app/`
+[`https://notes-app-sage-pi.vercel.app/`](https://notes-app-sage-pi.vercel.app/)
 
 ---
 
